@@ -1,17 +1,18 @@
 <!-- Main Title -->
-<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 48px; color: #f39c12; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
-    Hello 👋, I'm <span style="color: #3498db;">Renu Akkawar</span>
+<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 48px; color: #e67e22; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
+    Hello 👋, I'm <span style="color: #2980b9;">Renu Akkawar</span>
 </h1>
 
 <!-- Subtitle -->
-<h3 align="center" style="color: #2c3e50; font-family: 'Arial', sans-serif; font-size: 36px;">
+<h3 align="center" style="color: #8e44ad; font-family: 'Arial', sans-serif; font-size: 36px;">
     Data Analytics Enthusiast
 </h3>
 
 <!-- Badges Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-enthusiast-blue?style=for-the-badge&logo=chart-line" alt="data-science-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-enthusiast-blue?style=for-the-badge&logo=data-science" alt="data-science-badge"/>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-learning-yellow?style=for-the-badge&logo=robot" alt="ai-ml-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Passion%20Driven-orange?style=for-the-badge&logo=ai" alt="ai-badge"/>
 </p>
 
 <!-- Intro Section -->
@@ -25,12 +26,12 @@
 <h3 align="center" style="color: #e74c3c; font-family: 'Arial', sans-serif; font-size: 28px;">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/renu-akkawar-b84180268/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" class="rotate-icon"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 <!-- Languages and Tools Section -->
-<h3 align="center" style="color: #8e44ad; font-family: 'Arial', sans-serif; font-size: 28px;">Languages and Tools:</h3>
+<h3 align="center" style="color: #9b59b6; font-family: 'Arial', sans-serif; font-size: 28px;">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
@@ -54,18 +55,23 @@
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renuakkawar&show_icons=true&theme=radical&hide_border=true" alt="renuakkawar-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=renuakkawar&show_icons=true&theme=cobalt&hide_border=true" alt="renuakkawar-stats"/>
 </p>
 
 <!-- GitHub Streak Section -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renuakkawar&theme=radical&hide_border=true" alt="renuakkawar-streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renuakkawar&theme=cobalt&hide_border=true" alt="renuakkawar-streak"/>
 </p>
 
-<!-- Footer with additional SVG animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/jS4TOnrgRtThUgPRp2/giphy.gif" width="150px" alt="Thank You Animation" />
-</p>
+<!-- Footer with Personal Message -->
+<div align="center">
+  <h3 style="color: #16a085; font-family: 'Arial', sans-serif;">✨ Thank you for visiting my profile! ✨</h3>
+  <p style="font-family: 'Georgia', serif; color: #2c3e50;">
+    <strong>Follow me for more updates!</strong>
+  </p>
+</div>
 
-<!-- SVG Animation: Rotating LinkedIn Icon (Implemented in an external tool) -->
-<img src="https://raw.githubusercontent.com/renuakkawar/renuakkawar/main/rotating-linkedin.svg" width="50" alt="LinkedIn Rotating Icon" />
+<!-- Additional Message -->
+<p align="center" style="font-size: 14px; color: #95a5a6;">
+  Always learning, always growing.
+</p>
