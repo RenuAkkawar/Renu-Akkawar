@@ -62,7 +62,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=renuakkawar&theme=radical&hide_border=true" alt="renuakkawar-streak"/>
 </p>
 
-<!-- Footer with additional animations -->
+<!-- Footer with additional animation style -->
 <div align="center">
   <h3 style="color: #16a085; font-family: 'Arial', sans-serif;">✨ Thank you for visiting my profile! ✨</h3>
   <p style="animation: pulse 1.5s infinite;">
@@ -70,11 +70,7 @@
   </p>
 </div>
 
-<!-- Add CSS animation -->
-<style>
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-</style>
+<!-- Additional Message -->
+<p align="center" style="font-size: 14px; color: #95a5a6;">
+  Note: The pulsing effect will not work on GitHub due to Markdown limitations.
+</p>
