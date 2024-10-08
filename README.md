@@ -25,7 +25,7 @@
 <h3 align="center" style="color: #e74c3c; font-family: 'Arial', sans-serif; font-size: 28px;">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/renu-akkawar-b84180268/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" class="rotate-icon"/>
   </a>
 </p>
 
@@ -62,15 +62,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=renuakkawar&theme=radical&hide_border=true" alt="renuakkawar-streak"/>
 </p>
 
-<!-- Footer with additional animation style -->
-<div align="center">
-  <h3 style="color: #16a085; font-family: 'Arial', sans-serif;">✨ Thank you for visiting my profile! ✨</h3>
-  <p style="animation: pulse 1.5s infinite;">
-    <strong>Follow me for more updates!</strong>
-  </p>
-</div>
-
-<!-- Additional Message -->
-<p align="center" style="font-size: 14px; color: #95a5a6;">
-  Note: The pulsing effect will not work on GitHub due to Markdown limitations.
+<!-- Footer with additional SVG animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/jS4TOnrgRtThUgPRp2/giphy.gif" width="150px" alt="Thank You Animation" />
 </p>
+
+<!-- SVG Animation: Rotating LinkedIn Icon (Implemented in an external tool) -->
+<img src="https://raw.githubusercontent.com/renuakkawar/renuakkawar/main/rotating-linkedin.svg" width="50" alt="LinkedIn Rotating Icon" />
