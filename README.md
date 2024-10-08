@@ -70,7 +70,7 @@
   </p>
 </div>
 
-<!-- Add some CSS animation -->
+<!-- Add CSS animation -->
 <style>
 @keyframes pulse {
   0% { transform: scale(1); }
