@@ -1,30 +1,29 @@
-<!-- Fancy Animated Header -->
+<!-- HEADER SECTION WITH TYPOGRAPHY EFFECT -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  Hello, I'm <span style="color:#f39c12; font-size: 3rem; font-weight: bold; font-family: 'Courier New', Courier, monospace;">Renu Akkawar</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F39C12&size=25&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Renu+Akkawar!;Welcome+to+my+GitHub+Profile!;Data+Analytics+Enthusiast+%F0%9F%92%BB" alt="Typing SVG">
 </h1>
-<h3 align="center" style="color:#3498db; font-family: 'Lucida Console', Monaco, monospace;">✨ Data Analytics Enthusiast ✨</h3>
 
-<!-- Animated Icons for Highlights -->
+<h3 align="center" style="color:#3498db;">Exploring Data Science and AI/ML</h3>
+
+<!-- FANCY BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-enthusiast-blue?style=for-the-badge" alt="data-science-badge"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-learning-yellow?style=for-the-badge" alt="ai-ml-badge"/>
+  <img src="https://img.shields.io/badge/Data_Science-Enthusiast-blue?style=for-the-badge&logo=data-science&logoColor=white" alt="data-science-badge"/>
+  <img src="https://img.shields.io/badge/AI_ML-Learning-yellow?style=for-the-badge&logo=ai&logoColor=white" alt="ai-ml-badge"/>
+  <img src="https://img.shields.io/badge/Python-Expert-green?style=for-the-badge&logo=python&logoColor=white" alt="python-expert"/>
 </p>
 
-<!-- Cool Typing Animation for Introduction -->
-<p align="center" style="font-size: 1.2rem; font-family: 'Fira Code', monospace;">
+<!-- ABOUT SECTION WITH ICONS -->
+<p align="center">
+  <img src="https://img.icons8.com/clouds/100/000000/analytics.png"/>
+</p>
+<p align="center">
   <em>🔭 I have worked on <strong>Monika Sales Interactive Dashboard</strong></em><br>
-  🌱 Currently pursuing a <strong>BTech in Artificial Intelligence</strong><br>
-  📫 How to reach me: <a href="mailto:rakkawar.ytl@gmail.com"><strong style="color: #e67e22;">rakkawar.ytl@gmail.com</strong></a>
+  🌱 Currently pursuing <strong>BTech in Artificial Intelligence</strong><br>
+  📫 How to reach me: <a href="mailto:rakkawar.ytl@gmail.com"><strong>rakkawar.ytl@gmail.com</strong></a>
 </p>
 
-<!-- Animated Typing effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA07A&center=true&vCenter=true&width=500&lines=Data+Enthusiast;Aspiring+AI+Engineer;Open+to+Collaboration!" alt="Typing SVG" />
-</p>
-
-<!-- Fancy Connect Section -->
-<h3 align="center" style="color:#e74c3c;">🔗 Connect with me:</h3>
+<!-- SOCIAL MEDIA CONNECT -->
+<h3 align="center" style="color:#e74c3c;">Let's Connect</h3>
 <p align="center">
   <a href="https://linkedin.com/in/renu-akkawar-b84180268/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -32,42 +31,44 @@
   <a href="https://github.com/renuakkawar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
-
-<!-- Languages and Tools with Animated Hover -->
-<h3 align="center" style="color:#8e44ad;">🛠️ Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40" style="padding: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40" style="padding: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40" style="padding: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40" style="padding: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40" style="padding: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" style="padding: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://twitter.com/renuakkawar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
-<!-- GitHub Stats with a new theme -->
+<!-- LANGUAGES AND TOOLS SECTION -->
+<h3 align="center" style="color:#8e44ad;">Languages and Tools I Use</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renuakkawar&show_icons=true&theme=dracula" alt="renuakkawar-stats"/>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  </a>
 </p>
 
-<!-- GitHub Streak Stats -->
+<!-- GITHUB STATS WITH FANCY THEME -->
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renuakkawar&theme=dracula" alt="renuakkawar-streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=renuakkawar&show_icons=true&theme=tokyonight&hide_border=true" alt="renuakkawar-stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renuakkawar&theme=tokyonight&hide_border=true" alt="renuakkawar-streak"/>
 </p>
 
-<!-- Additional Wave Animation Footer -->
+<!-- ANIMATED WAVE IMAGE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
+  <img src="https://media.giphy.com/media/jRfWZHAy50cbG/giphy.gif" alt="Animated Wave" width="100">
 </p>
