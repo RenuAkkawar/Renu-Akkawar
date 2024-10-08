@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-blue?style=for-the-badge" alt="data-science-badge"/>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Learning-yellow?style=for-the-badge" alt="ai-ml-badge"/>
   <img src="https://img.shields.io/badge/Python-Intermediate-informational?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Dashboards-Creator-green?style=for-the-badge"/>
 </p>
 
 <!-- About Me Section with Hoverable Mail and Project -->
