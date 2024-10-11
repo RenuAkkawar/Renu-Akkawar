@@ -11,8 +11,8 @@
 <!-- Badges Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-enthusiast-blue?style=for-the-badge&logo=data-science" alt="data-science-badge"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-learning-yellow?style=for-the-badge&logo=robot" alt="ai-ml-badge"/>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Passion%20Driven-orange?style=for-the-badge&logo=ai" alt="ai-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-learning-yellow?style=for-the-badge&logo=robot&logoColor=white&labelColor=purple&color=linear-gradient(to right, #ff6b6b, #f06595, #cc65ff)" alt="ai-ml-badge" style="font-family: 'Arial', sans-serif; font-size: 14px;"/>
+  <img src="https://img.shields.io/badge/Data%20Driven-orange?style=for-the-badge&logo=data" alt="data-driven-badge"/>
 </p>
 
 <!-- Intro Section -->
